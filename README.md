@@ -23,11 +23,3 @@ mvn clean install
 ### 3. Execute:
 - WineStockClient → `ApplicationClient1`
 - WineOrderClient → `ApplicationClient2`
-
-## Tecnologias
-Java 17, Maven, JAX-WS, SOAP
-
-## Entrega
-Repositório GitHub enviado para:
-- profcarlos.oliveira@fiap.com.br
-- pf2308@fiap.com.br
